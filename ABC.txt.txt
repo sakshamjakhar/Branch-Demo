@@ -1,1 +1,2 @@
-How to use branches add make branches
+How to use branches add make branches.
+Making branches and working on it.
